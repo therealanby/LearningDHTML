@@ -4,7 +4,6 @@
 Date: 4/4/21
 
 1. Notes.md - notes
-2. 
 
 **Concepts**
 - CSS styles using style attribute

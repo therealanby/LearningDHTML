@@ -4,6 +4,8 @@
 Date: 4/5/21
 
 1. Notes.md - notes
-2. 
 
 **Concepts**
+- quotation
+- comments
+- color

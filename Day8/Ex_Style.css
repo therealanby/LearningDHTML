@@ -1,0 +1,14 @@
+body{
+    background-image: url("doogo.jpg");
+    /*this is a comment. the background pic does not show for vscode preview*/
+    border: 2px dashed powderblue;
+}
+h1 {
+    color: brown;
+}
+h2 {
+    color:aquamarine;
+}
+p {
+    color:cadetblue;
+}

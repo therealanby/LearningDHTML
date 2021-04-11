@@ -1,0 +1,31 @@
+## Notes
+**CSS Backgrounds**
+- CSS background properties are used to add background effects to elements
+- some properties:
+    - background-color
+    - background-image
+    - background-repeat
+    - background-attachment
+    - background-position
+    - background
+- background-color specifies the color of an element's background
+    - the value is a color value
+    - all visible elements or groups can have this property
+- opacity property to specify transparency
+- RGBA is a color value that specifies transparency in its values
+- background-image specifies an image to use as a background
+    - value: url("link.extension")
+    - note: use an image that doesn't collide with the text/make the text hard to read
+- background-repeat sets the repeat of an image
+    - an image repeats horizontally and vertically by default
+    - set value to "repeat-x" for horizontal
+    - set value to "repeat-y" for vertical
+    - "no-repeat" for no repeat
+- background position specifies the position
+    - values: px, words (top, bottom, right), or percentages
+- background attachment specifies if image should be fixed or scroll with page
+    - values: "fixed" or "scroll"
+    - fixed means that the image will always be shown when you scroll
+- background is a shorthand property. It is used to specify all properties in one body
+    - set properties in one declaration
+    - order: color, image, repeat, attachment, position

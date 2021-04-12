@@ -18,3 +18,4 @@ Note: I'm using vscode to make all the files. The vscode preview for .md files s
 10. Bookmarks, HTML wrapup, and a list of stuff to look further into
 11. CSS Intro
 12. CSS Backgrounds
+13. CSS Borders

@@ -1,0 +1,47 @@
+## Notes
+**Box model**
+- box model is a term used to talk about design and layout
+- a box model is something that wraps around every HTML element
+- it's made up of: margin, border, padding and the content
+    - margin: area outside border; transparent
+    - border: a border that goes around padding and content
+    - padding: clears an area around content. transparent
+    - content: content of box; image/text
+- setting the width property only sets the width of the content
+- calculations for total width/height:
+    - width = width + left padding + right padding + left border + right border + left margin + right margin
+    - height = height + top padding + bottom padding + top border + bottom border + top margin + bottom margin
+
+**Outlines**
+- a line drawn outside the element's borders
+- drawn around element, outside borders; used to make element stand out
+- outline properties:
+    - outline-style
+    -...-color
+    -...-width
+    -...-offset
+    - outline
+- different from borders
+    - drawn outside border
+    - may overlap
+    - not part of element's dimension
+    - doesn't contribute to total width/height calculations
+- outline-style
+    - values:
+        - dotted
+        - dashed
+        - solid
+        - basically all border values
+- outline-width
+    - thickness of outline
+    - thin, medium, thick
+    - specific size: px
+- outline-color
+    - colors
+    - invert: performs inversion and also makes outline visible always
+- shorthand
+    - order: width, style(required), color
+- offset    
+    - adds space between outline and border of an element
+    - "outline-offset"
+    - value is a measurement unit(usually px)

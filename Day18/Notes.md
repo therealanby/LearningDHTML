@@ -89,7 +89,7 @@
 **Pairings**
 - [too lazy to take notes](https://www.w3schools.com/css/css_font_pairings.asp)
 
-**Font Shorthand
+**Font Shorthand**
 - font property
 - order: font-stlye, *-variant, *-weight, *-size/line-height, *-family
 - required: font-size and font-family. default values for the others will be used if missing

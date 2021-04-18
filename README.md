@@ -25,3 +25,4 @@ Note: I'm using vscode to make all the files. The vscode preview for .md files s
 17. Box model and outlines
 18. Text, and Fonts
 19. Icon, Links, and Lists
+20. skim a bunch of CSS stuff (table and display)

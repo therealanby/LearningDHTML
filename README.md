@@ -28,4 +28,4 @@ Note: I'm using vscode to make all the files. The vscode preview for .md files s
 20. skim a bunch of CSS stuff (table and display)
 21. Nothing
 22. Nothing
-23. 
+23. Javascript Intro

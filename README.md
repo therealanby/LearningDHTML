@@ -29,3 +29,4 @@ Note: I'm using vscode to make all the files. The vscode preview for .md files s
 21. Nothing
 22. Nothing
 23. Javascript Intro
+24. How to include JS, JS output, statements, syntax, and comments

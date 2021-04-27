@@ -33,3 +33,4 @@ Note: I'm using vscode to make all the files. The vscode preview for .md files s
 25. Nothing
 26. Nothing
 27. variables, let, const, and operators
+28. Nothing

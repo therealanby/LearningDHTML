@@ -6,6 +6,8 @@ Note: I'm using vscode to make all the files. The vscode preview for .md files s
 
 **Days**
 
+*HTML*
+
 1. Intro
 2. Headings and practice
 3. tags
@@ -16,6 +18,9 @@ Note: I'm using vscode to make all the files. The vscode preview for .md files s
 8. CSS basics
 9. HTML links
 10. Bookmarks, HTML wrapup, and a list of stuff to look further into
+
+*CSS*
+
 11. CSS Intro
 12. CSS Backgrounds
 13. CSS Borders
@@ -26,6 +31,9 @@ Note: I'm using vscode to make all the files. The vscode preview for .md files s
 18. Text, and Fonts
 19. Icon, Links, and Lists
 20. skim a bunch of CSS stuff (table and display)
+
+*JS*
+
 21. Nothing
 22. Nothing
 23. Javascript Intro
@@ -35,3 +43,4 @@ Note: I'm using vscode to make all the files. The vscode preview for .md files s
 27. variables, let, const, and operators
 28. Nothing
 29. Data types, functions, objects, and events
+30. Strings and Numbers

@@ -1,0 +1,1 @@
+**Somewhat big research assignment due soon so I probably won't be doing any DHTML for a few days**

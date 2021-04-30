@@ -44,3 +44,5 @@ Note: I'm using vscode to make all the files. The vscode preview for .md files s
 28. Nothing
 29. Data types, functions, objects, and events
 30. Strings and Numbers
+31. Arrays
+32. 

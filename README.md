@@ -46,3 +46,8 @@ Note: I'm using vscode to make all the files. The vscode preview for .md files s
 30. Strings and Numbers
 31. Arrays
 32. Nothing
+33. Nothing
+34. Nothing
+35. Nothing
+36. Nothing
+37. JS Dates

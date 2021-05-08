@@ -52,3 +52,8 @@ Note: I'm using vscode to make all the files. The vscode preview for .md files s
 36. Nothing
 37. JS Dates
 38. Nothing
+39. Math and whole bunch of other stuff to wrap up JS basics
+
+*Random stuff*
+
+40. 

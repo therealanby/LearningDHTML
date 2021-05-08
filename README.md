@@ -4,6 +4,8 @@ A repository to keep track of my experience learning DHTML(HTML, CSS and Javascr
 
 Note: I'm using vscode to make all the files. The vscode preview for .md files show the color and formats for html stuff but github does not. 
 
+Note #2: Don't expect too much out of this. I'm pretty lazy so I take little notes and do basically no practice on the content. More of these folders will just contain note files. I also will skip a bunch of days because of school work. 
+
 **Days**
 
 *HTML*

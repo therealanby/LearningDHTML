@@ -58,4 +58,7 @@ Note #2: Don't expect too much out of this. I'm pretty lazy so I take little not
 
 *Random stuff*
 
-40. 
+40. Nothing lol
+41. Nothing
+42. Nothing
+43. HTML beginner concepts: title, paragraph, headers, links, images, lists, tables, and forms

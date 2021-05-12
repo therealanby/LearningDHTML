@@ -62,3 +62,4 @@ Note #2: Don't expect too much out of this. I'm pretty lazy so I take little not
 41. Nothing
 42. Nothing
 43. HTML beginner concepts: title, paragraph, headers, links, images, lists, tables, and forms
+44. HTML intermediate concepts: span, div, meta, text format, table, list, and sectioning tags

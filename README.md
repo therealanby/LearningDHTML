@@ -65,3 +65,5 @@ Note #2: Don't expect too much out of this. I'm pretty lazy so I take little not
 44. HTML intermediate concepts: span, div, meta, text format, table, list, and sectioning tags
 45. Nothing
 46. more tags, table, special comments, accessible links
+47. Nothing
+48. Labels, groups, more form stuff, and embed content

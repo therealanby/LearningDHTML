@@ -1,0 +1,82 @@
+body {
+    font-family: arial, helvetica, sans-serif;
+    font-size: 14px;
+    color: black;
+    background-color: rgb(134, 191, 255);
+    margin: 20px;
+    padding: 0;
+}
+
+/* This is a comment, by the way */
+
+p {
+    margin-top: 0px;
+    line-height: 15px;
+    color:white;
+}
+
+h1 {
+    color: rgb(204, 216, 255);
+    background-color: rgb(43, 0, 143);
+    font-size: 2em;
+    margin: 0;
+    margin-bottom: 1px;
+    padding: 4px;
+    font-style: italic;
+    text-align: center;
+    letter-spacing: 5px;
+    border-bottom-style: solid;
+    border-bottom-width: 0.5em;
+    border-bottom-color: rgb(5, 0, 80);
+}
+
+h2 {
+    color: white;
+    background-color: rgb(0, 41, 153);
+    font-size: 1.5em;
+    margin: 0;
+    padding: 2px;
+    padding-left: 14px;
+}
+
+h3 {
+    color: rgb(255, 255, 255);
+    font-size: 1.25em;
+    margin-bottom: 5px;
+}
+
+img {
+    border-style: dashed;
+    border-width: 2px;
+    border-color: #ccc;
+}
+
+a {
+    text-decoration: none;
+}
+
+strong {
+    font-style: italic;
+    text-transform: uppercase;
+}
+
+li::before {
+    content: "\2022      ";
+    margin-left:-1em;
+    width:1em;
+    display: inline;
+    font-weight: bold;
+    color: rgb(0, 28, 153);
+    font-style: italic;
+}
+
+
+table {
+    background-color: #ccc;
+    border:3px solid blue;
+}
+
+ th, td {
+    border: 1px solid darkblue;
+    text-align: right;
+}

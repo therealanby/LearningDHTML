@@ -71,3 +71,7 @@ Note #2: Don't expect too much out of this. I'm pretty lazy so I take little not
 50. Nothing
 51. Nothing
 52. CSS beginner stuff review
+53. Nothing
+54. Nothing
+55. Nothing
+56. Selectors, grouping, pseudo-classes, background image, other intermediate stuff

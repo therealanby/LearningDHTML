@@ -79,3 +79,4 @@ Note #2: Don't expect too much out of this. I'm pretty lazy so I take little not
 58. Nothing
 59. Nothing
 60. At-rules, attribute selectors, transitions, backgrounds and transform
+61. Gradients, media query, JS

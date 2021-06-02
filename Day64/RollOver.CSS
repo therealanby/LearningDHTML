@@ -1,0 +1,17 @@
+a {
+    display: block;
+    width: 200px;
+    height: 200px;
+    background-image: url(smile.png);
+    text-indent: 1em;
+    background-size: 200px 200px;
+    text-decoration: none;
+    -webkit-transition: .5s;
+    transition: .5s;
+
+}
+
+a:hover {
+    background-image: url(troll.png);
+    background-position: bottom;
+}

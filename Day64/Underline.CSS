@@ -1,0 +1,28 @@
+a {
+    text-decoration: none;
+    color: red;
+}
+
+a:hover {
+    color: darkred;
+}
+a.border {
+    border-bottom: 2px dotted rgb(128, 0, 0);
+}
+
+a.image {
+    padding-bottom: 5px;
+    background: url(smile.png) bottom repeat-x;
+    background-size: 5px 5px;
+}
+
+a.transition {
+    border-bottom: 2px solid red;
+    -webkit-transition: .5s;
+    transition: .5s;
+}
+
+a.transition:hover{
+    border-color: rgb(128, 0, 0);
+    border: 2px solid darkred;
+}

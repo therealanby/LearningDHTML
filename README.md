@@ -83,3 +83,18 @@ Note #2: Don't expect too much out of this. I'm pretty lazy so I take little not
 62. Nothing
 63. Cool techniques
 64. More techniques
+65. Nothing
+66. Nothing
+67. Nothing
+68. Nothing
+69. Nothing (Nice)
+70. Nothing
+71. Nothing
+72. Nothing
+73. Nothing
+74. Nothing
+75. Nothing
+76. Nothing
+77. Nothing
+78. Tabs
+79. 

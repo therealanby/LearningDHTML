@@ -9,3 +9,6 @@
 - clear property separates the boxes (tab from content box)
 - top: 1 pushes down tab to cover content box (overlaps white to make it look connected)
 - display: inline-block can also be used (not covered here)
+- experiment with color and borders
+- border radius to create rounded tabs
+

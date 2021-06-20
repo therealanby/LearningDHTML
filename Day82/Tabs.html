@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Tabbers</title>
+        <link rel = "stylesheet" href = "Tabs.css">
+    </head>
+    <body>
+        <h1>Welcome</h1>
+        <p>Click on tabs to switch content</p>
+        <nav class = "tab">
+            <button id = "default" class = "links" onclick = "openTab(event, 'Tab1')">Tab 1</button>
+            <button class = "links" onclick = "openTab(event, 'Tab2')">Tab 2</button>
+            <button class = "links" onclick = "openTab(event, 'Tab3')">Tab 3</button>
+        </nav>
+
+        <section id = "Tab1" class = "tabcontent">
+            <span class = "close" onclick="this.parentElement.style.display='none'"><p>x</p></span>
+            <h2>Tabbers #1</h2>
+            <p>This is tab 1. Welcome. Say hi. It can't say hi back though.</p>
+        </section>
+
+        <section id = "Tab2" class = "tabcontent">
+            <span class = "close" onclick="this.parentElement.style.display='none'"><p>x</p></span>
+            <h2>Tabbers #2</h2>
+            <p>This is tab 2. That's all you need to know.</p>
+        </section>
+
+        <section id = "Tab3" class = "tabcontent">
+            <span class = "close" onclick="this.parentElement.style.display='none'"><p>x</p></span>
+            <h2>Tabbers #3</h2>
+            <p>This is tab 3. It's the third tab. There are two preceding tabs.</p>
+        </section>
+
+        <script src = "Tabs.js"></script>
+    </body>
+</html>

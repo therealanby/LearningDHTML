@@ -1,0 +1,28 @@
+## Notes
+### More tabs
+- [link](https://www.w3schools.com/howto/howto_js_tabs.asp)
+- this method requires JS 
+- common js practice: put script tag(interal and external) at end of html page
+- Html:
+    - head(title, CSS link), body (content and JS script)
+    - nav container (div works too) with buttons
+    - nav with class value
+    - button with class value
+    - onclick attribute with openTab (or some other function name) that's going to be written in the js file
+    - create section containers (or div) to contain the contents of each tab (h and p tags) 
+    - each section container should have an unique id and one common/shared class
+- CSS:
+    - style tab
+    - style button (float, cursor, transition) 
+        - note that this uses float rather than changing display
+        - you can inherit background color (nice)
+    - style button hover state (change background color)
+    - create active/current tab class (whatever that means) (style it so it's background color is darker)
+    - style tabcontent
+- JS:
+    - hard to explain. Look at file. Better yet, look at js file in link at top of this page. 
+- add animation with animation property and @keyframes thingy
+- show/hide tabs by default example in link (also implemented in example files here)
+- `border: 1px black solid;` to show padding and margins for editing
+- `<span onclick="this.parentElement.style.display='none'">x</span>`
+- for closing tab

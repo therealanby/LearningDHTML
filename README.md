@@ -6,6 +6,8 @@ Note: I'm using vscode to make all the files. The vscode preview for .md files s
 
 Note #2: Don't expect too much out of this. I'm pretty lazy so I take little notes and do basically no practice on the content. More of these folders will just contain note files. I also will skip a bunch of days because of school work. 
 
+Note #3: [Webdevtrick.com](https://webdevtrick.com/) is really nice
+
 **Days**
 
 *HTML*

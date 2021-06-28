@@ -1,0 +1,3 @@
+- [new tutorial](https://www.theodinproject.com/home)
+- Tired of taking notes so no more notes
+- If I feel like taking notes on a good technique, I will put it in the "stuff" folder
